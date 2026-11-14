@@ -1,8 +1,9 @@
 {
-  "custom_domain_state": "planned; no CNAME included",
+  "custom_domain_state": "CNAME prepared; Pages binding, DNS and HTTPS still require verification",
   "excluded_from_site_file_hashes": [
     "README.md",
-    "DEPLOYMENT_SOURCE.json"
+    "DEPLOYMENT_SOURCE.json",
+    "CNAME"
   ],
   "files": {
     ".nojekyll": {
@@ -76,5 +77,12 @@
   "site_file_count": 16,
   "source_commit": "45fb2c3e4dedce03652a9a1672ca78846928dff0",
   "source_directory": "website-package/sites/logistics",
-  "source_repository": "VerbaEdge/VerbaEdge.github.io"
+  "source_repository": "VerbaEdge/VerbaEdge.github.io",
+  "deployment_config": {
+    "CNAME": {
+      "value": "logistics.verbaedge.com",
+      "bytes": 24,
+      "sha256": "edd0cddf7b6b3da2d9609c58c6bde6da1cdee0acb867d680810bc34bd9a170a2"
+    }
+  }
 }
