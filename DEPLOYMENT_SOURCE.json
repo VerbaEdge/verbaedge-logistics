@@ -1,0 +1,80 @@
+{
+  "custom_domain_state": "planned; no CNAME included",
+  "excluded_from_site_file_hashes": [
+    "README.md",
+    "DEPLOYMENT_SOURCE.json"
+  ],
+  "files": {
+    ".nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "assets/brand/verbaedge-logo-180.png": {
+      "bytes": 8122,
+      "sha256": "75aaf014d2d1273312c1d12e49982008ded27ec310ae498bac3981fc70c57675"
+    },
+    "assets/brand/verbaedge-logo.svg": {
+      "bytes": 499,
+      "sha256": "1a5faa859b7a308f52c1e7c55684e1fa9beebed77f2ad10a8e4258f6b804af33"
+    },
+    "billing/demo/check.js": {
+      "bytes": 1992,
+      "sha256": "aac0fc27d7d8d548eb66914f5380413410517c0b574cea42d3e0d46c47219687"
+    },
+    "billing/demo/index.html": {
+      "bytes": 2684,
+      "sha256": "a4e80834278d8e20029bb11a296112820255013f8092bd689b3f955d47e0cf0f"
+    },
+    "billing/index.html": {
+      "bytes": 6912,
+      "sha256": "3059268fde9d9e3a254e66da02e2db9b4955c278fe207e2413ed310b5fc951c3"
+    },
+    "demo/demo.js": {
+      "bytes": 1994,
+      "sha256": "4d30c5c2923b45f7edebfdc3cbee375ef0a54e5f92807f8be27f6adb63c11c2b"
+    },
+    "demo/index.html": {
+      "bytes": 3261,
+      "sha256": "330894e1ec89263bc2a2e826cf0e18fe36bdcfc16744b1d43c0713c4c64999ef"
+    },
+    "favicon-32.png": {
+      "bytes": 1383,
+      "sha256": "e5f690592f29deeec6dc2e6b110a1c7990470716f1aa0a9e06265f549412b151"
+    },
+    "favicon.svg": {
+      "bytes": 499,
+      "sha256": "1a5faa859b7a308f52c1e7c55684e1fa9beebed77f2ad10a8e4258f6b804af33"
+    },
+    "fr/facturation/index.html": {
+      "bytes": 3701,
+      "sha256": "081cd0058e1ed02e98494f49ed3bf4b10cd4c7a94dac1518441b7ab5dff26160"
+    },
+    "fr/index.html": {
+      "bytes": 4118,
+      "sha256": "7748cbae64dfd2e1388445c6ba0efe22011ff7789d160fc7665900907ac5ecaa"
+    },
+    "index.html": {
+      "bytes": 10579,
+      "sha256": "f5515e5f3c4a7f32c3e546160108bb7b8e6fb9f0239fb7464bc34af2397cd318"
+    },
+    "robots.txt": {
+      "bytes": 76,
+      "sha256": "37bfbc0e796fc66fd2079ecc4b74cde0624dcb974cc0d9e9fdb26435bb18a1f9"
+    },
+    "site.css": {
+      "bytes": 8397,
+      "sha256": "9ccbec0b81e287de5997177ab4964643f9c82c26796d40334f4941612fbacaed"
+    },
+    "sitemap.xml": {
+      "bytes": 355,
+      "sha256": "f279307ed03095987578911c74cb02da28dd5a73c4a9658194b07a4f856ae0d2"
+    }
+  },
+  "hash_algorithm": "sha256",
+  "intended_custom_domain": "logistics.verbaedge.com",
+  "intended_repository": "VerbaEdge/verbaedge-logistics",
+  "site_file_count": 16,
+  "source_commit": "45fb2c3e4dedce03652a9a1672ca78846928dff0",
+  "source_directory": "website-package/sites/logistics",
+  "source_repository": "VerbaEdge/VerbaEdge.github.io"
+}
